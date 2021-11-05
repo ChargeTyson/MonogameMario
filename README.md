@@ -1,6 +1,8 @@
 
 This will be the repository for all of our projects this semester. This course will be a lot of work, but should also be a lot of fun and we will come out of the course with a working knowledge of how to work in teams for software development.
 
+(This is a copy of my group's repository, I cannot publish our actual repository since it contains some personal infromation about my teammates)
+
 ## Updates for Sprint 4
 - All pull requests must have a linked issue (set this up on the Project page)
 - Please update the default branch to `sprint4`. This can be done in Settings > Branches > (left-right arrow icon) > sprint4 > "I understand...
