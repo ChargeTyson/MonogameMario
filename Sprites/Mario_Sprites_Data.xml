@@ -1,0 +1,36 @@
+<Mario>
+    <Big>
+        <Idle>
+            <Left>
+                <frame x = "0" y = "0" width = "14" height = "20" />
+            </Left>
+            <Right>
+                <frame x = "15" y = "0" width = "14" height = "20" />
+            </Right>
+        </Idle>
+        <Crouch>
+            <Left>
+                <frame x = "30" y = "0" width = "15" height = "14" />
+            </Left>
+            <Right>
+                <frame x = "46" y = "0" width = "15" height = "14" />
+            </Right>
+	</Crouch>
+        <Running>
+            <Left>
+                <frame x = "62" y = "0" width = "15" height = "20" />
+                <frame x = "62" y = "20" width = "15" height = "20" />
+                <frame x = "62" y = "40" width = "15" height = "20" />
+                <frame x = "62" y = "60" width = "15" height = "20" />
+            </Left>
+            <Right>
+                <frame x = "78" y = "0" width = "15" height = "20" />
+                <frame x = "78" y = "20" width = "15" height = "20" />
+                <frame x = "78" y = "40" width = "15" height = "20" />
+                <frame x = "78" y = "60" width = "15" height = "20" />
+            </Right>
+        </Running>
+    </Big>
+</Mario>
+
+                

@@ -1,0 +1,15 @@
+﻿<Goomba>
+	<Walk>
+		<Left>
+			<frame x="0" y="1" width="16" height="15" />
+			<frame x="0" y="16" width="16" height="16" />
+		</Left>
+		<Right>
+			<frame x="17" y="1" width="16" height="15" />
+			<frame x="17" y="16" width="16" height="16" />
+		</Right>
+	</Walk>
+	<Stomped>
+		<frame x="34" y="0" width="16" height="16" />
+	</Stomped>
+</Goomba>

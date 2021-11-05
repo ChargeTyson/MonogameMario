@@ -1,0 +1,349 @@
+<World background="background">
+    <Column x="0">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+	<Column x="1">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="2">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="3">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="4">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="5">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="6">
+		<block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="7">
+		<block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Mushroom" />
+        <block y="9" class="Block_Lucky_Unbroken" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="8">
+		<block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="9">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="10">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="11">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="12">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Step" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="13">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Step" />
+        <block y="3" class="Block_Step" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="14">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Step" />
+        <block y="3" class="Block_Step" />
+        <block y="4" class="Block_Step" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="15">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="16">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="17">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="18">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="19">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="20">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <item y="2" class="Mushroom1Up" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="21">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="22">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="23">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="5" class="Block_Brick" />
+        <item y="6" class="Coin" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="24">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="25">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="26">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+	<Column x="27">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <item y="3" class="FireFlower" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="28">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="29">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+        <enemy y="4" class="Goomba" />
+    </Column>
+    <Column x="30">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="31">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="32">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+        <enemy y="10" class="GreenKoopaTroopa" />
+    </Column>
+    <Column x="33">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="34">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="35">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="20" class="Block_Ground" />
+    </Column>
+    <Column x="36">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+    <Column x="37">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+    <Column x="38">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+    <Column x="39">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+    <Column x="40">
+        <block y="0" class="Block_Ground" />
+        <block y="1" class="Block_Ground" />
+        <block y="2" class="Block_Brick" />
+        <block y="3" class="Block_Brick" />
+        <block y="4" class="Block_Brick" />
+        <block y="5" class="Block_Brick" />
+        <block y="6" class="Block_Brick" />
+        <block y="7" class="Block_Brick" />
+        <block y="8" class="Block_Brick" />
+        <block y="9" class="Block_Brick" />
+        <block y="10" class="Block_Brick" />
+        <block y="11" class="Block_Brick" />
+        <block y="12" class="Block_Brick" />
+        <block y="13" class="Block_Brick" />
+        <block y="14" class="Block_Brick" />
+        <block y="15" class="Block_Brick" />
+        <block y="16" class="Block_Brick" />
+        <block y="17" class="Block_Brick" />
+        <block y="18" class="Block_Brick" />
+        <block y="19" class="Block_Brick" />
+        <block y="20" class="Block_Brick" />
+    </Column>
+    
+</World>
+

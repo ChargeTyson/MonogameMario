@@ -1,0 +1,52 @@
+﻿<Block>
+	<Lucky>
+		<Unbroken>
+			<frame x="0" y="0" width="16" height="16" />
+			<frame x="0" y="16" width="16" height="16" />
+			<frame x="0" y="32" width="16" height="16" />
+			<frame x="0" y="48" width="16" height="16" />
+		</Unbroken>
+		<Broken>
+			<frame x="17" y="0" width="16" height="16" />
+		</Broken>
+	</Lucky>
+	<Outlet>
+		<frame x="34" y="0" width="16" height="16" />
+	</Outlet>
+	<Step>
+		<frame x="51" y="0" width="16" height="16" />
+	</Step>
+	<Brick>
+		<frame x="68" y="0" width="16" height="16" />
+	</Brick>
+	<Grass>
+		<Middle>
+			<frame x="85" y="0" width="16" height="8" />
+		</Middle>
+		<Left>
+			<frame x="102" y="0" width="8" height="8" />
+		</Left>
+		<Right>
+			<frame x="111" y="0" width="8" height="8" />
+		</Right>
+	</Grass>
+	<Ground>
+		<Left>
+			<frame x="120" y="0" width="8" height="16" />
+		</Left>
+		<Right>
+			<frame x="129" y="0" width="8" height="16" />
+		</Right>
+		<Middle>
+			<frame x="138" y="0" width="16" height="16" />
+		</Middle>
+	</Ground>
+	<Pipe>
+		<Entrance>
+			<frame x="155" y="0" width="32" height="16" />
+        </Entrance>
+		<Tube>
+			<frame x="155" y="16" width="32" height="16" />
+        </Tube>
+	</Pipe>
+</Block>

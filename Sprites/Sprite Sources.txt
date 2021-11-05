@@ -1,0 +1,18 @@
+Sprite Source:
+https://www.spriters-resource.com/snes/smarioworld/
+
+(Various sprites were pulled from various sheets)
+
+Mario:
+https://www.spriters-resource.com/snes/smarioworld/sheet/53664/
+
+Enemies:
+https://www.spriters-resource.com/snes/smarioworld/sheet/143271/
+https://www.spriters-resource.com/snes/smarioworld/sheet/144019/
+
+Blocks and Items:
+https://www.spriters-resource.com/snes/smarioworld/sheet/144428/
+https://www.spriters-resource.com/snes/smarioworld/sheet/144754/
+https://www.spriters-resource.com/snes/smarioworld/sheet/145886/
+https://www.spriters-resource.com/snes/smarioworld/sheet/145146/
+https://www.spriters-resource.com/snes/smarioworld/sheet/144427/

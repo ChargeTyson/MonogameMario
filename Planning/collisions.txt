@@ -1,0 +1,64 @@
+Collisions
+= = = = = = = = = = = = = = = = =
+
+High Velocity
+
+
+2D Collisions Detection
+- Collision tests
+	- We need to find out what can collide (what are the "things")
+	- What moves vs. what doesn't move
+	- Iteration drives collision
+	- LOS: Line of sight - Can I see from this "thing" all the other things I'm supposed to see? n^2 complexity
+	- Pixel-pixel: did any of our pixels touch? Yes -> collision
+	- Square-square: everything in my world has a bounding box or is a square; do the squares touch? Yes -> collision
+	- Axis-aligned bounding box (rectangle) testing: Did our rectangle borders touch? Yes -> collision
+
+- Pixel-pixel test:
+	- We make a binary mask for each sprite (mask with #000000)
+	- Detection test:
+	    if (XOR == 1) // no collision occurs 
+	    if (XOR == 0 && OR == 1) // collision occurs
+	- Pro's of using this:
+	    - Accurate
+	- Con's of using this:
+	    - Slow
+	    - Requires with image data
+
+- Square-square test:
+	- If the distance between the top left corners of a square (dx) is bigger than the size of the square, no collision
+	- This is lightning fast because we're running a biconditional if statement and we only have +/- operations
+	- Collision occurs when dx and dy are less than the length of the size.
+	- Detection test:
+	    if (dx > size && dy > size) // no collision occurs
+	    if (dx <= size || dy <= size) // collision occurs
+	- Only one comparison is done between two objects (see code sample above)
+
+- Axis-aligned bounding box (rectangle) testing:
+	- dy and dx cannot be compared to a set size
+	- Check both boxes. The math is "is the side of box A in the same range on the same axis as box B?"
+	- Box A: (0,0) to (3,4)
+	- Box B: (5,7) to (9,12)
+	- In the above example, boxes A and B are not colliding.
+	- Box C: (1,1) to (4,5)
+	- With Box C now in the equation, boxes A and C are colliding.
+	- Detection test:
+	    if (!Rectangle.Intersects(Rectangle)) // no collision occurs
+	    if (Rectangle.Intersects(Rectangle)) // collision occurs
+
+- Documentation: The Monogame API documentation should be good
+                 XNA's documentation is messy
+
+- In Mario, if you have a collision that's more vertical than horizontal, the enemy is killed.
+- If you have a collision that's more horizontal than vertical, the enemy harms Mario
+
+- Iterating through the collision loop
+	- Given Mario, enemyList(length n), blockList(length m), test
+	- See "Exhaustive Comparison" slide (17) for methods to call
+	
+- Static vs. Dynamic
+	- Non-moving (static) objects only need to be compared against dynamic objects
+
+- Resources
+	- GameDev Stack Exchange (slide 19)
+

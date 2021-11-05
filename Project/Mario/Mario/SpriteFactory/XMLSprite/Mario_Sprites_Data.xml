@@ -1,0 +1,183 @@
+<Mario>
+    <Small>
+        <Idle>
+            <Left>
+                <frame x = "0" y = "0" width = "14" height = "28" />
+            </Left>
+            <Right>
+                <frame x = "15" y = "0" width = "14" height = "28" />
+            </Right>
+        </Idle>
+        <Crouch>
+            <Left>
+                <frame x = "30" y = "0" width = "15" height = "28" />
+            </Left>
+            <Right>
+                <frame x = "46" y = "0" width = "15" height = "28" />
+            </Right>
+	    </Crouch>
+        <Run>
+            <Left>
+                <frame x = "63" y = "0" width = "15" height = "28" />
+				<frame x = "63" y = "28" width = "14" height = "28" />
+				<frame x = "63" y = "56" width = "15" height = "28" />
+				<frame x = "63" y = "84" width = "14" height = "28" />
+			</Left>
+            <Right>
+                <frame x = "78" y = "0" width = "16" height = "28" />
+                <frame x = "78" y = "28" width = "15" height = "28" />
+                <frame x = "78" y = "56" width = "16" height = "28" />
+                <frame x = "78" y = "84" width = "15" height = "28" />
+            </Right>
+        </Run>
+		<Jump>
+			<Left>
+				<frame x = "160" y = "0" width = "16" height = "31" />
+			</Left>
+			<Right>
+				<frame x = "177" y = "0" width = "16" height= "31" />
+			</Right>
+		</Jump>
+		<Fall>
+			<Left>
+				<frame x = "194" y = "0" width = "16" height="20" />
+			</Left>
+			<Right>
+				<frame x="221" y="0" width="16" height="20" />
+			</Right>
+		</Fall>
+		<Powerup>
+			<Left>
+				<frame x="261" y="8" width="14" height="20" />
+				<frame x="261" y="32" width="15" height="24" />
+				<frame x="261" y="56" width="15" height="28" />
+			</Left>
+			<Right>
+				<frame x="276" y="8" width="14" height="20" />
+				<frame x="276" y="32" width="15" height="24" />
+				<frame x="276" y="56" width="15" height="28" />				
+			</Right>
+		</Powerup>
+		<Die>
+			<frame x="886" y="0" width="16" height="24" />
+		</Die>
+    </Small>
+	<Big>
+		<Idle>
+			<Left>
+				<frame x="292" y="0" width="15" height="28" />
+			</Left>
+			<Right>
+				<frame x="308" y="0" width="15" height="28" />
+			</Right>
+		</Idle>
+		<Crouch>
+			<Left>
+				<frame x="324" y="0" width="16" height="28" />
+			</Left>
+			<Right>
+				<frame x="341" y="0" width="16" height="28" />
+			</Right>
+		</Crouch>
+		<Run>
+			<Left>
+				<frame x="358" y="0" width="16" height="28" />
+				<frame x="358" y="28" width="16" height="27" />
+				<frame x="358" y="56" width="16" height="28" />
+				<frame x="359" y="84" width="15" height="28" />
+			</Left>
+			<Right>
+				<frame x="375" y="0" width="16" height="28" />
+				<frame x="375" y="28" width="16" height="27" />
+				<frame x="375" y="56" width="16" height="28" />
+				<frame x="375" y="84" width="15" height="28" />
+			</Right>
+		</Run>
+		<Jump>
+			<Left>
+				<frame x="430" y="0" width="16" height="31" />
+			</Left>
+			<Right>
+				<frame x="447" y="0" width="16" height="31" />
+			</Right>
+		</Jump>
+		<Fall>
+			<Left>
+				<frame x="464" y="0" width="16" height="29" />
+			</Left>
+			<Right>
+				<frame x="481" y="0" width="16" height="29" />
+			</Right>
+		</Fall>
+		<Powerdown>
+			<Left>
+				<frame x="261" y="56" width="15" height="28" />
+				<frame x="261" y="32" width="15" height="24" />
+				<frame x="261" y="8" width="14" height="20" />
+			</Left>
+			<Right>
+				<frame x="276" y="56" width="15" height="28" />
+				<frame x="276" y="32" width="15" height="24" />
+				<frame x="276" y="8" width="14" height="20" />
+			</Right>
+		</Powerdown>
+	</Big>
+	<Fire>
+		<Idle>
+			<Left>
+				<frame x="538" y="0" width="15" height="28" />
+			</Left>
+			<Right>
+				<frame x="554" y="0" width="15" height="28" />
+			</Right>
+		</Idle>
+		<Crouch>
+			<Left>
+				<frame x="570" y="0" width="16" height="28" />
+			</Left>
+			<Right>
+				<frame x="587" y="0" width="16" height="28" />
+			</Right>
+		</Crouch>
+		<Run>
+			<Left>
+				<frame x="604" y="0" width="16" height="28" />
+				<frame x="604" y="28" width="16" height="27" />
+				<frame x="604" y="56" width="16" height="28" />
+				<frame x="605" y="84" width="15" height="28" />
+			</Left>
+			<Right>
+				<frame x="621" y="0" width="16" height="28" />
+				<frame x="621" y="28" width="16" height="27" />
+				<frame x="621" y="56" width="16" height="28" />
+				<frame x="621" y="84" width="15" height="28" />
+			</Right>
+		</Run>
+		<Jump>
+			<Left>
+				<frame x="676" y="0" width="16" height="31" />
+			</Left>
+			<Right>
+				<frame x="693" y="0" width="16" height="31" />
+			</Right>
+		</Jump>
+		<Fall>
+			<Left>
+				<frame x="710" y="0" width="16" height="29" />
+			</Left>
+			<Right>
+				<frame x="727" y="0" width="16" height="29" />
+			</Right>
+		</Fall>
+		<Throw>
+			<Left>
+				<frame x="784" y="0" width="16" height="28" />
+			</Left>
+			<Right>
+				<frame x="801" y="0" width="16" height="28" />
+			</Right>
+		</Throw>
+	</Fire>
+</Mario>
+
+                

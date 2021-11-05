@@ -1,0 +1,25 @@
+﻿<Green_Koopa>
+	<Unshelled>
+		<Walk>
+			<Left>
+				<frame x="0" y="0" width="16" height="27" />
+				<frame x="0" y="27" width="16" height="26" />
+			</Left>
+			<Right>
+				<frame x="17" y="0" width="16" height="27" />
+				<frame x="17" y="27" width="16" height="26" />
+			</Right>
+		</Walk>
+	</Unshelled>
+	<Shelled>
+		<Idle>
+			<frame x="34" y="0" width="16" height="16" />
+		</Idle>
+		<Slide>
+			<frame x="51" y="0" width="16" height="16" />
+			<frame x="51" y="16" width="16" height="16" />
+			<frame x="51" y="32" width="16" height="16" />
+			<frame x="51" y="48" width="16" height="16" />
+		</Slide>
+	</Shelled>
+</Green_Koopa>

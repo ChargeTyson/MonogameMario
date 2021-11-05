@@ -1,0 +1,14 @@
+﻿<Level_1-1>
+  <A>
+    <frame x="0" y="32" width="1088" height="32" />
+  </A>
+  <B>
+    <frame x="1120" y="32" width="240" height="32" />
+  </B>
+  <C>
+    <frame x="1408" y="32" width="1024" height="32" />
+  </C>
+  <D>
+    <frame x="2464" y="32" width="3360" height="32" />
+  </D>
+</Level_1-1>

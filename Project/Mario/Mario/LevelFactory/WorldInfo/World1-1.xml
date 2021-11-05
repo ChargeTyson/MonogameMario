@@ -1,0 +1,854 @@
+﻿<World background="background">
+	<Column x="0">
+	</Column>
+	<Column x="1">
+	</Column>
+	<Column x="2">
+	</Column>
+	<Column x="3">
+		<item y="2" class="Coin" />
+	</Column>
+	<Column x="4">
+		<item y="2" class="Coin" />
+		<enemy y="10" class="GreenKoopaTroopa" />
+
+	</Column>
+	<Column x="5">
+		<item y="2" class="Coin" />
+	</Column>
+	<Column x="6">
+		<enemy y="13" class="RedKoopaTroopa" />
+
+	</Column>
+	<Column x="7">
+	</Column>
+	<Column x="8">
+	</Column>
+	<Column x="9">
+		<enemy y="4" class="Goomba" />
+	</Column>
+	<Column x="10">
+	</Column>
+	<Column x="11">
+	</Column>
+	<Column x="12">
+		<item y="2" class="FireFlower" />
+	</Column>
+	<Column x="13">
+	</Column>
+	<Column x="14">
+		<item y="2" class="Mushroom" />
+	</Column>
+	<Column x="15">
+	</Column>
+	<Column x="16">
+		<block y="5" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="17">
+	</Column>
+	<Column x="18">
+	</Column>
+	<Column x="19">
+	</Column>
+	<Column x="20">
+		<block y="5" class="Block_Brick" />
+		<item y="6" class="Coin" />
+
+	</Column>
+	<Column x="21">
+		<block y="5" class="Block_Lucky_Unbroken" />
+		<item y="6" class="Coin" />
+
+	</Column>
+	<Column x="22">
+		<block y="5" class="Block_Brick" />
+		<item y="6" class="Coin" />
+		<block y="9" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="23">
+		<block y="5" class="Block_Lucky_Unbroken" />
+		<item y="6" class="Coin" />
+
+	</Column>
+	<Column x="24">
+		<block y="5" class="Block_Brick" />
+		<item y="6" class="Coin" />
+
+	</Column>
+	<Column x="25">
+	</Column>
+	<Column x="26">
+	</Column>
+	<Column x="27">
+	</Column>
+	<Column x="28">
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="29">
+	</Column>
+	<Column x="30">
+	</Column>
+	<Column x="31">
+	</Column>
+	<Column x="32">
+	</Column>
+	<Column x="33">
+	</Column>
+	<Column x="34">
+	</Column>
+	<Column x="35">
+	</Column>
+	<Column x="36">
+	</Column>
+	<Column x="37">
+	</Column>
+	<Column x="38">
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Tube" />
+		<block y="4" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="39">
+	</Column>
+	<Column x="40">
+	</Column>
+	<Column x="41">
+	</Column>
+	<Column x="42">
+	</Column>
+	<Column x="43">
+	</Column>
+	<Column x="44">
+	</Column>
+	<Column x="45">
+	</Column>
+	<Column x="46">
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Tube" />
+		<block y="4" class="Block_Pipe_Tube" />
+		<block y="5" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="47">
+	</Column>
+	<Column x="48">
+	</Column>
+	<Column x="49">
+	</Column>
+	<Column x="50">
+	</Column>
+	<Column x="51">
+	</Column>
+	<Column x="52">
+	</Column>
+	<Column x="53">
+	</Column>
+	<Column x="54">
+	</Column>
+	<Column x="55">
+	</Column>
+	<Column x="56">
+	</Column>
+	<Column x="57">
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Tube" />
+		<block y="4" class="Block_Pipe_Tube" />
+		<block y="5" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="58">
+	</Column>
+	<Column x="59">
+	</Column>
+	<Column x="60">
+	</Column>
+	<Column x="61">
+	</Column>
+	<Column x="62">
+	</Column>
+	<Column x="63">
+	</Column>
+	<Column x="64">
+	</Column>
+	<Column x="65">
+	</Column>
+	<Column x="66">
+	</Column>
+	<Column x="67">
+	</Column>
+	<Column x="68">
+	</Column>
+	<Column x="71">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="72">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="73">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="74">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="75">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="76">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="77">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="78">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="79">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="80">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="81">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="82">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="83">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="84">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="85">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="86">
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="87">
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="89">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="90">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="91">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="92">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="93">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="94">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+		<block y="9" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="95">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="96">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="97">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="98">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="99">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="100">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="101">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="102">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="103">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="104">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="105">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="106">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="107">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="108">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="109">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Lucky_Unbroken" />
+		<block y="9" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="110">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="111">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="112">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="113">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="114">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="115">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="116">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="117">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="118">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="119">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="120">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="121">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="122">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="123">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="124">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="125">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="126">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="127">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="128">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="129">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+		<block y="9" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="130">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+		<block y="9" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="131">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="9" class="Block_Brick" />
+	</Column>
+	<Column x="132">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="133">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="134">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="135">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+	</Column>
+	<Column x="136">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+	</Column>
+	<Column x="137">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="138">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="139">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="140">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="141">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+	</Column>
+	<Column x="142">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+	</Column>
+	<Column x="143">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="144">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="145">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="146">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="147">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="148">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="149">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+	</Column>
+	<Column x="150">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+	</Column>
+	<Column x="151">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="152">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="155">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="156">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+	</Column>
+	<Column x="157">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+	</Column>
+	<Column x="158">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="159">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="160">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="161">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="162">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="163">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="164">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="165">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="166">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="167">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="168">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="169">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="170">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Lucky_Unbroken" />
+	</Column>
+	<Column x="171">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="5" class="Block_Brick" />
+	</Column>
+	<Column x="172">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="173">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="174">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="175">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="176">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="177">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="178">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="179">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Pipe_Tube" />
+		<block y="3" class="Block_Pipe_Entrance" />
+	</Column>
+	<Column x="180">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="181">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="182">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+	</Column>
+	<Column x="183">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+	</Column>
+	<Column x="184">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+	</Column>
+	<Column x="185">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+		<block y="6" class="Block_Step" />
+	</Column>
+	<Column x="186">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+		<block y="6" class="Block_Step" />
+		<block y="7" class="Block_Step" />
+	</Column>
+	<Column x="187">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+		<block y="6" class="Block_Step" />
+		<block y="7" class="Block_Step" />
+		<block y="8" class="Block_Step" />
+	</Column>
+	<Column x="188">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+		<block y="6" class="Block_Step" />
+		<block y="7" class="Block_Step" />
+		<block y="8" class="Block_Step" />
+		<block y="9" class="Block_Step" />
+	</Column>
+	<Column x="189">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+		<block y="3" class="Block_Step" />
+		<block y="4" class="Block_Step" />
+		<block y="5" class="Block_Step" />
+		<block y="6" class="Block_Step" />
+		<block y="7" class="Block_Step" />
+		<block y="8" class="Block_Step" />
+		<block y="9" class="Block_Step" />
+	</Column>
+	<Column x="190">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="191">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="192">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="193">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="194">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="195">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="196">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="197">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="198">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Step" />
+	</Column>
+	<Column x="199">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="200">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="201">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="202">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Lucky_Broken" />
+	</Column>
+	<Column x="203">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="204">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="205">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="206">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+		<block y="2" class="Block_Lucky_Broken" />
+	</Column>
+	<Column x="207">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="208">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="209">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+	<Column x="210">
+		<block y="0" class="Block_Ground" />
+		<block y="1" class="Block_Ground" />
+	</Column>
+</World>

@@ -1,0 +1,30 @@
+﻿<Item>
+	<Mushroom>
+		<frame x="0" y="0" width="16" height="16" />
+	</Mushroom>
+	<Star>
+		<frame x="17" y="0" width="15" height="16" />
+		<frame x="17" y="16" width="15" height="16" />
+		<frame x="17" y="32" width="15" height="16" />
+		<frame x="17" y="48" width="15" height="16" />
+	</Star>
+	<Flower>
+		<frame x="33" y="0" width="16" height="16" />
+		<frame x="33" y="16" width="16" height="16" />
+	</Flower>
+	<Coin>
+		<frame x="50" y="0" width="12" height="16" />
+		<frame x="50" y="16" width="12" height="16" />
+		<frame x="50" y="32" width="12" height="16" />
+		<frame x="50" y="48" width="12" height="16" />
+	</Coin>
+	<Fireball>
+		<frame x="65" y="1" width="6" height="7" />
+		<frame x="63" y="10" width="7" height="6" />
+		<frame x="63" y="16" width="6" height="7" />
+		<frame x="64" y="24" width="7" height="6" />
+	</Fireball>
+	<OneUp>
+		<frame x="72" y="0" width="16" height="16" />
+	</OneUp>
+</Item>
